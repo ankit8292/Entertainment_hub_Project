@@ -1,6 +1,6 @@
 import axios from "axios";
 import { useEffect, useState } from "react";
-import { CircularProgress , LinearProgress} from "@material-ui/core";
+import { LinearProgress} from "@material-ui/core";
 import Genres from "../../components/Genres/Genres";
 import SingleContent from "../../components/SingleContent/SingleContent";
 import useGenre from "../../hooks/useGenre";
