@@ -1,3 +1,3 @@
 In this project It shows list of Movie & TV series along with Rating. In this project, it is divided in four tabs i.e Trending tab, Movie tab, TV Series Tab, & Search Tab. In Trending section ,It shows all the list of movie & TV series which are currently in trending. In Movie & TV Series section, It shows the list of movie & series accordingly along with ratings. And in Search Tab if users want to seacrh any movie or TV series they can search & check it. If user want to know more about any specific movie or TV series then they can click any particular movie or series & get some more details about particular movie or series.
 This project is made in ReactJS and I am using "The Movie DB(i.e. TMDB)" API
-It is hosted on Github-Pages [(link)](https://entertainment-hub-ankit.netlify.app/).
+It is hosted on Netlify[(link)](https://entertainment-hub-ankit.netlify.app/).
